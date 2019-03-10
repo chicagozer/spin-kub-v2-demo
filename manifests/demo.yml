@@ -5,6 +5,7 @@ metadata:
   namespace: junk
 data:
   NEW_FEATURE: "true"
+  SECOND_FEATURE: "true"
   FROM_GIT: "true"
 
 ---
