@@ -6,6 +6,7 @@ metadata:
 data:
   NEW_FEATURE: "true"
   SECOND_FEATURE: "true"
+  THIRD_FEATURE: "true"
   FROM_GIT: "true"
 
 ---
