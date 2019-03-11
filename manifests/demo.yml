@@ -7,6 +7,7 @@ data:
   NEW_FEATURE: "true"
   SECOND_FEATURE: "true"
   THIRD_FEATURE: "true"
+  FOURTH_FEATURE: "true"
   FROM_GIT: "true"
 
 ---
@@ -21,7 +22,7 @@ metadata:
     stack: frontend
     app: spinnaker
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       source: demo
